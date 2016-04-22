@@ -14,7 +14,7 @@ Here are the following functionalities of the game:
 	- Pyramids are randomly placed ahead of the jet as the jet moves forward
 	- Collision detection is added and if that event occurs, the game is over
 
-Open CSC490 Game 1 in unity. You can play the game on unity itself by clicking the play button, but since this is a
+Open the project in unity. You can play the game on unity itself by clicking the play button, but since this is a
 mobile game, you need the accelerometer to move the plane sideways.
 In order to use the phone's accerlerometer follow these steps:
 	- Download unity remote on your mobile device
@@ -25,5 +25,4 @@ In order to use the phone's accerlerometer follow these steps:
 	  when you tilt the phone which moves the jet in the game
 	- the quality of the game won't be good since you are running it in real time using this method
 
-I have only tested this on an iPhone 6. It should work with android but I have not tested it. If you have any problems
-running the game, I have a working built version on my phone you can see just in case
+I have only tested this on an iPhone 6
